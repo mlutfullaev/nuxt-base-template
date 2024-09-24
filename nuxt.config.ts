@@ -11,5 +11,10 @@ export default defineNuxtConfig({
   shadcn: {
     prefix: 'Ui',
     componentDir: '@/components/Ui'
+  },
+  runtimeConfig: {
+    public: {
+      apiBaseUrl: import.meta.env.BACKEND_API_BASE_URL
+    }
   }
 })
