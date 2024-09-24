@@ -3,11 +3,12 @@ export default defineNuxtConfig({
   css: ['@/assets/styles/index.scss'],
   devtools: { enabled: true },
   modules: [
-    "@nuxtjs/tailwindcss",
-    "shadcn-nuxt",
+    '@nuxtjs/tailwindcss',
+    'shadcn-nuxt',
+    '@nuxt/eslint'
   ],
   shadcn: {
-    prefix: "Ui",
-    componentDir: "./components/ui",
-  },
+    prefix: 'Ui',
+    componentDir: '@/components/Ui'
+  }
 })
