@@ -7,11 +7,12 @@ export default defineNuxtConfig({
     'shadcn-nuxt',
     '@nuxt/eslint',
     '@pinia/nuxt',
-    '@nuxt/icon'
+    '@nuxt/icon',
+    '@nuxtjs/seo'
   ],
   shadcn: {
-    prefix: 'Ui',
-    componentDir: '@/components/Ui'
+    prefix: 'ui',
+    componentDir: '@/components/ui'
   },
   runtimeConfig: {
     public: {
