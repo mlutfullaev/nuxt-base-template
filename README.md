@@ -2,7 +2,8 @@
 
 [Nuxt 3 documentation](https://nuxt.com/docs/getting-started/introduction)<br/>
 [Shadcn Documentation](https://ui.shadcn.com/docs)<br/>
-[Tailwind Documentation](https://tailwindcss.com/docs/)
+[Tailwind Documentation](https://tailwindcss.com/docs/)<br/>
+[Iconfiy Library](https://icones.js.org/collection/mdi)
 
 ## Commands
 
