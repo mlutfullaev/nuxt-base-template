@@ -5,7 +5,8 @@ export default defineNuxtConfig({
   modules: [
     '@nuxtjs/tailwindcss',
     'shadcn-nuxt',
-    '@nuxt/eslint'
+    '@nuxt/eslint',
+    '@pinia/nuxt'
   ],
   shadcn: {
     prefix: 'Ui',
