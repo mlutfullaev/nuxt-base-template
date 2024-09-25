@@ -5,9 +5,10 @@
 <template>
   <NuxtLayout name="404">
     <div class="w-full text-center py-20">
-      <h1 class="pb-4 text-3xl">
+      <h1 class="pb-4 text-2xl">
         Page not found
       </h1>
+
       <nuxt-link
         class="bg-black p-2 text-white rounded-xl"
         to="/"

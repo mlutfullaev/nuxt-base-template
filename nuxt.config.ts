@@ -8,7 +8,8 @@ export default defineNuxtConfig({
     '@nuxt/eslint',
     '@pinia/nuxt',
     '@nuxt/icon',
-    '@nuxtjs/seo'
+    '@nuxtjs/seo',
+    '@nuxtjs/google-fonts'
   ],
   shadcn: {
     prefix: 'ui',
