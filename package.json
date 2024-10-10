@@ -24,10 +24,10 @@
     "clsx": "^2.1.1",
     "nuxt": "^3.13.0",
     "pinia": "^2.2.2",
-    "radix-vue": "^1.9.6",
+    "radix-vue": "^1.9.7",
     "sass": "^1.79.3",
     "shadcn-nuxt": "^0.10.4",
-    "tailwind-merge": "^2.5.2",
+    "tailwind-merge": "^2.5.3",
     "tailwindcss-animate": "^1.0.7",
     "vue": "3.5.8",
     "vue-router": "latest"
